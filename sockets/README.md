@@ -7,7 +7,6 @@
     <meta charset="utf-8" />
     <meta name="generator" content="pandoc" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
-    <title>CSCB09 2022 Summer Assignment 4</title>
 </head>
 <body id="top">
     <header class="title">
